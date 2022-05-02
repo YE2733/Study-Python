@@ -5,8 +5,10 @@ print(bruce_eckel)
 bruce_eckel2 = 'Life is short. \n\tYou need Python.'
 print(bruce_eckel2)
 
+#여러줄 문자열
 multi_line = '''Life is short.
 You  need Python
 And I need C#, too.
 '''
 print(multi_line)
+
