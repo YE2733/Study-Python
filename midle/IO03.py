@@ -16,5 +16,8 @@
 
 
 # Escape 문자
+from audioop import reverse
+
+
 greeting = "Hello, I\'m a teacher. \"Bye~\" \\ "
 print(greeting)

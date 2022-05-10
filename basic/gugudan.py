@@ -11,6 +11,9 @@ for x in range(2, 10):
 
 '''
 
+from audioop import reverse
+
+
 print('----구구단 프로그램----')
 
 for x in range(2, 10):
